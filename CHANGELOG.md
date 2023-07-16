@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.0.23 (2023-07-16)
+
+### Others
+
+- chore(changelog): generate v0.0.22 (2023-07-16)
+
 ## v0.0.22 (2023-07-16)
 
 ### Others
